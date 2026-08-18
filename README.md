@@ -1,6 +1,6 @@
 # Demo: superpowers, gstack y mattpocock
 
-Este repo acompaña el correo de Egler sobre adoptar `superpowers`, `gstack` y `mattpocock` (mp-*) como herramientas fundamentales del equipo.
+Este repo acompaña el correo un correo de sugerencia sobre adoptar `superpowers`, `gstack` y `mattpocock` (mp-*) como herramientas fundamentales del equipo.
 
 Contiene:
 
